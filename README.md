@@ -13,7 +13,7 @@ For the second technique, I used a Graph Auto-Encoder (GAE), with a graph convol
 
 ## General results
 
-Results are showed in the notebook, but as a general result the CatBoost performed better. The features used in the first technique were much more refined. The only metric avaliable in the kaggle challenge was the F1 score. Here are the best results for each technique:
+Results are shown in the notebook, but as a general result the CatBoost performed better. The features used in the first technique were much more refined. The only metric avaliable in the kaggle challenge was the F1 score. Here are the best results for each technique:
 
 | Technique | Best F1 score |
 |-----------|---------------|
